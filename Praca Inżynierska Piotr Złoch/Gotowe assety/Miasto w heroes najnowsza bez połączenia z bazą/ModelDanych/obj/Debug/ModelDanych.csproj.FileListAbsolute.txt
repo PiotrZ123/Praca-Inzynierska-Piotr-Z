@@ -1,0 +1,23 @@
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\ModelDanych\bin\Debug\ModelDanych.dll.config
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\ModelDanych\bin\Debug\ModelDanych.dll
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\ModelDanych\bin\Debug\ModelDanych.pdb
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\ModelDanych\bin\Debug\EntityFramework.dll
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\ModelDanych\bin\Debug\EntityFramework.SqlServer.dll
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\ModelDanych\bin\Debug\EntityFramework.xml
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\ModelDanych\bin\Debug\EntityFramework.SqlServer.xml
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\ModelDanych\obj\Debug\ModelDanych.csproj.CoreCompileInputs.cache
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\ModelDanych\obj\Debug\ModelDanych.csproj.CopyComplete
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\ModelDanych\obj\Debug\ModelDanych.dll
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\ModelDanych\obj\Debug\ModelDanych.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\ModelDanych\bin\Debug\ModelDanych.dll.config
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\ModelDanych\bin\Debug\ModelDanych.dll
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\ModelDanych\bin\Debug\ModelDanych.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\ModelDanych\bin\Debug\EntityFramework.dll
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\ModelDanych\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\ModelDanych\bin\Debug\EntityFramework.xml
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\ModelDanych\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\ModelDanych\obj\Debug\ModelDanych.csproj.CoreCompileInputs.cache
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\ModelDanych\obj\Debug\ModelDanych.csproj.CopyComplete
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\ModelDanych\obj\Debug\ModelDanych.dll
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\ModelDanych\obj\Debug\ModelDanych.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\ModelDanych\obj\Debug\ModelDanych.csproj.AssemblyReference.cache

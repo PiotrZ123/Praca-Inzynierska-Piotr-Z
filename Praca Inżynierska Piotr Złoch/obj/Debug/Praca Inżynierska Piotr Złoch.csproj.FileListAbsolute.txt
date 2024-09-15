@@ -1,0 +1,44 @@
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\bin\Debug\Praca Inżynierska Piotr Złoch.exe.config
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\bin\Debug\Praca Inżynierska Piotr Złoch.exe
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\bin\Debug\Praca Inżynierska Piotr Złoch.pdb
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\obj\Debug\Praca_Inżynierska_Piotr_Złoch.Properties.Resources.resources
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\obj\Debug\Praca Inżynierska Piotr Złoch.csproj.GenerateResource.cache
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\obj\Debug\Praca Inżynierska Piotr Złoch.csproj.CoreCompileInputs.cache
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\obj\Debug\Praca Inżynierska Piotr Złoch.exe
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\obj\Debug\Praca Inżynierska Piotr Złoch.pdb
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\obj\Debug\Praca_Inżynierska_Piotr_Złoch.GUI.MenuGlowne.resources
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\obj\Debug\Praca_Inżynierska_Piotr_Złoch.GUI.Opcje.resources
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\obj\Debug\Praca_Inżynierska_Piotr_Złoch.GUI.Bitwa.resources
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\obj\Debug\Praca_Inżynierska_Piotr_Złoch.GUI.WyborPoziomow.resources
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\obj\Debug\Praca_Inżynierska_Piotr_Złoch.Kontrolki.BohaterWidok.resources
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\obj\Debug\Praca_Inżynierska_Piotr_Złoch.GUI.ZakupArmiiPrzedBitwa.resources
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\obj\Debug\Praca_Inżynierska_Piotr_Złoch.Kontrolki.ArmiaWidok.resources
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\obj\Debug\Praca_Inżynierska_Piotr_Złoch.Kontrolki.JednostkaWidok.resources
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\obj\Debug\Praca Inżynierska Piotr Złoch.csproj.AssemblyReference.cache
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\obj\Debug\Miasto_w_heroes.Kontrolki.JednostkaWidokKontrolka.resources
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\obj\Debug\Praca_Inżynierska_Piotr_Złoch.GUI.KupJednostki.resources
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\obj\Debug\Praca_Inżynierska_Piotr_Złoch.Kontrolki.KolejkaJednostek.resources
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\obj\Debug\Miasto_w_heroes.GUI.JednostkaWidok.resources
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\obj\Debug\Praca_Inżynierska_Piotr_Złoch.GUI.KsiegaUmiejetnosci.resources
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\bin\Debug\NAudio.Asio.dll
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\bin\Debug\NAudio.Core.dll
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\bin\Debug\NAudio.dll
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\bin\Debug\NAudio.Midi.dll
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\bin\Debug\NAudio.WinForms.dll
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\bin\Debug\NAudio.WinMM.dll
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\bin\Debug\NAudio.xml
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\bin\Debug\NAudio.Asio.xml
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\bin\Debug\NAudio.Core.xml
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\bin\Debug\NAudio.Midi.xml
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\bin\Debug\NAudio.WinForms.xml
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\bin\Debug\NAudio.WinMM.xml
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\obj\Debug\Praca Inżynierska Piotr Złoch.csproj.CopyComplete
+C:\Users\Dusiciel\source\repos\Praca Inżynierska Piotr Złoch\Praca Inżynierska Piotr Złoch\obj\Debug\Praca_Inżynierska_Piotr_Złoch.GUI.WygranaPrzegrana.resources

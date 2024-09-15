@@ -1,0 +1,78 @@
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\bin\Debug\WarstwaDostępuDoDanych.dll.config
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\bin\Debug\WarstwaDostępuDoDanych.dll
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\bin\Debug\WarstwaDostępuDoDanych.pdb
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\bin\Debug\EntityFramework.dll
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\bin\Debug\EntityFramework.SqlServer.dll
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\bin\Debug\ModelDanych.dll
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\bin\Debug\ModelDanych.pdb
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\bin\Debug\ModelDanych.dll.config
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\bin\Debug\EntityFramework.xml
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\bin\Debug\EntityFramework.SqlServer.xml
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.csproj.AssemblyReference.cache
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.Nowabaza.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.csproj.GenerateResource.cache
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.csproj.CoreCompileInputs.cache
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.csproj.CopyComplete
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.dll
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.pdb
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.Poprawki.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.Dodanienazwymapy.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.Dodanienazwymapypoprawka.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.Dodanienazwyusuniecie.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.Dodaniepolozeniamiasta.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.zmianajednostennaliste.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.zamianazlistnatablice.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.zmiananazwyguida.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.zmiananazwytabeli.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\bin\Debug\WarstwaDostępuDoDanych.dll.config
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\bin\Debug\WarstwaDostępuDoDanych.dll
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\bin\Debug\WarstwaDostępuDoDanych.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\bin\Debug\EntityFramework.dll
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\bin\Debug\ModelDanych.dll
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\bin\Debug\ModelDanych.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\bin\Debug\ModelDanych.dll.config
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\bin\Debug\EntityFramework.xml
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.csproj.AssemblyReference.cache
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.Nowabaza.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.Poprawki.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.Dodanienazwymapy.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.Dodanienazwymapypoprawka.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.Dodanienazwyusuniecie.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.Dodaniepolozeniamiasta.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.zmianajednostennaliste.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.zamianazlistnatablice.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.zmiananazwyguida.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.zmiananazwytabeli.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.csproj.GenerateResource.cache
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.csproj.CoreCompileInputs.cache
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.csproj.CopyComplete
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.dll
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.pdb
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\bin\Debug\WarstwaDostępuDoDanych.dll.config
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\bin\Debug\WarstwaDostępuDoDanych.dll
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\bin\Debug\WarstwaDostępuDoDanych.pdb
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\bin\Debug\EntityFramework.dll
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\bin\Debug\EntityFramework.SqlServer.dll
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\bin\Debug\ModelDanych.dll
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\bin\Debug\ModelDanych.pdb
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\bin\Debug\ModelDanych.dll.config
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\bin\Debug\EntityFramework.xml
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\bin\Debug\EntityFramework.SqlServer.xml
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.csproj.AssemblyReference.cache
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.Nowabaza.resources
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.Poprawki.resources
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.Dodanienazwymapy.resources
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.Dodanienazwymapypoprawka.resources
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.Dodanienazwyusuniecie.resources
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.Dodaniepolozeniamiasta.resources
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.zmianajednostennaliste.resources
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.zamianazlistnatablice.resources
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.zmiananazwyguida.resources
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.Migrations.zmiananazwytabeli.resources
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.csproj.GenerateResource.cache
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.csproj.CoreCompileInputs.cache
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.csproj.CopyComplete
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.dll
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\WarstwaDostępuDoDanych\obj\Debug\WarstwaDostępuDoDanych.pdb

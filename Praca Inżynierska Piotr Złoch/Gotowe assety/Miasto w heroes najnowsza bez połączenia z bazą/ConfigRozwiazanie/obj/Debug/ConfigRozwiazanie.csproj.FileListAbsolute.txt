@@ -1,0 +1,6 @@
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\ConfigRozwiazanie\bin\Debug\ConfigRozwiazanie.exe.config
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\ConfigRozwiazanie\bin\Debug\ConfigRozwiazanie.exe
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\ConfigRozwiazanie\bin\Debug\ConfigRozwiazanie.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\ConfigRozwiazanie\obj\Debug\ConfigRozwiazanie.csproj.CoreCompileInputs.cache
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\ConfigRozwiazanie\obj\Debug\ConfigRozwiazanie.exe
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\ConfigRozwiazanie\obj\Debug\ConfigRozwiazanie.pdb

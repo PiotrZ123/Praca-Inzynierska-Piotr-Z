@@ -1,0 +1,14 @@
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Animacje\bin\Debug\Animacje.exe.config
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Animacje\bin\Debug\Animacje.exe
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Animacje\bin\Debug\Animacje.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Animacje\obj\Debug\Animacje.Properties.Resources.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Animacje\obj\Debug\Animacje.csproj.GenerateResource.cache
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Animacje\obj\Debug\Animacje.csproj.CoreCompileInputs.cache
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Animacje\obj\Debug\Animacje.exe
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Animacje\obj\Debug\Animacje.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Animacje\obj\Debug\Animacje.Form1.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Animacje\obj\Debug\Animacje.csproj.AssemblyReference.cache
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Animacje\bin\Debug\ConfigRozwiazanie.exe
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Animacje\bin\Debug\ConfigRozwiazanie.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Animacje\bin\Debug\ConfigRozwiazanie.exe.config
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Animacje\obj\Debug\Animacje.csproj.CopyComplete

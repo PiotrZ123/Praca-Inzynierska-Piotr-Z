@@ -1,0 +1,272 @@
+C:\Users\Dusiciel\source\repos\Miasto w heroes\Miasto w heroes\bin\Debug\Miasto w heroes.exe.config
+C:\Users\Dusiciel\source\repos\Miasto w heroes\Miasto w heroes\bin\Debug\Miasto w heroes.exe
+C:\Users\Dusiciel\source\repos\Miasto w heroes\Miasto w heroes\bin\Debug\Miasto w heroes.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.AssemblyReference.cache
+C:\Users\Dusiciel\source\repos\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto_w_heroes.Form1.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto_w_heroes.Miasto_widok.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto_w_heroes.Properties.Resources.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.GenerateResource.cache
+C:\Users\Dusiciel\source\repos\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.CoreCompileInputs.cache
+C:\Users\Dusiciel\source\repos\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto w heroes.exe
+C:\Users\Dusiciel\source\repos\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto w heroes.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto_w_heroes.Budowa_budynku.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto_w_heroes.Ekran_rekrutacji.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto_w_heroes.Ekran_startowy.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto_w_heroes.Mapa_widok.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto_w_heroes.wybor_map.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto_w_heroes.Bitwa.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto_w_heroes.Mapa1cs.resources
+F:\Miasto w heroes\Miasto w heroes\bin\Debug\Miasto w heroes.exe.config
+F:\Miasto w heroes\Miasto w heroes\bin\Debug\Miasto w heroes.exe
+F:\Miasto w heroes\Miasto w heroes\bin\Debug\Miasto w heroes.pdb
+F:\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.AssemblyReference.cache
+F:\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto_w_heroes.Bitwa.resources
+F:\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto_w_heroes.Budowa_budynku.resources
+F:\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto_w_heroes.Ekran_rekrutacji.resources
+F:\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto_w_heroes.Ekran_startowy.resources
+F:\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto_w_heroes.Form1.resources
+F:\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto_w_heroes.Mapa1cs.resources
+F:\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto_w_heroes.Mapa_widok.resources
+F:\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto_w_heroes.Miasto_widok.resources
+F:\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto_w_heroes.Properties.Resources.resources
+F:\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto_w_heroes.wybor_map.resources
+F:\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.GenerateResource.cache
+F:\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.CoreCompileInputs.cache
+F:\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto w heroes.exe
+F:\Miasto w heroes\Miasto w heroes\obj\Debug\Miasto w heroes.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Miasto w heroes.exe.config
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Miasto w heroes.exe
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Miasto w heroes.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.AssemblyReference.cache
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Bitwa.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Budowa_budynku.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Ekran_rekrutacji.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Ekran_startowy.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Mapa1cs.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Mapa_widok.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Miasto_widok.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Properties.Resources.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.wybor_map.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.GenerateResource.cache
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.CoreCompileInputs.cache
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.exe
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Kontrolki_by_wwsi.dll
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Kontrolki_by_wwsi.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.CopyComplete
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Miasto w heroes.exe.config
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Miasto w heroes.exe
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Miasto w heroes.pdb
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Kontrolki_by_wwsi.dll
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Kontrolki_by_wwsi.pdb
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.AssemblyReference.cache
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Bitwa.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Budowa_budynku.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Ekran_rekrutacji.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Ekran_startowy.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Form1.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Kontrolki.BohaterControl.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Kontrolki.JednostkaKontrolka.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Mapa1cs.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Mapa_widok.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Miasto_widok.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Properties.Resources.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.wybor_map.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.GenerateResource.cache
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.CoreCompileInputs.cache
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.CopyComplete
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.exe
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Kontrolki.BohaterControl.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Kontrolki.JednostkaKontrolka.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Miasto w heroes.exe.config
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Miasto w heroes.exe
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Miasto w heroes.pdb
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Kontrolki_by_wwsi.dll
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\ModelDanych.dll
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Kontrolki_by_wwsi.pdb
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Kontrolki_by_wwsi.dll.config
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\ModelDanych.pdb
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\ModelDanych.dll.config
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.AssemblyReference.cache
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Bitwa.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Budowa_budynku.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Ekran_rekrutacji.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Ekran_startowy.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Kontrolki.BohaterControl.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Kontrolki.JednostkaKontrolka.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Mapa_widok.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Miasto_widok.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Properties.Resources.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.wybor_map.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.GenerateResource.cache
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.CoreCompileInputs.cache
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.CopyComplete
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.exe
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.pdb
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\WarstwaDostępuDoDanych.dll
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\EntityFramework.dll
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\WarstwaDostępuDoDanych.pdb
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\WarstwaDostępuDoDanych.dll.config
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\EntityFramework.xml
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\EntityFramework.SqlServer.dll
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\EntityFramework.SqlServer.xml
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.EkranOdczytu.resources
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Miasto w heroes.exe.config
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Miasto w heroes.exe
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Miasto w heroes.pdb
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Kontrolki_by_wwsi.dll
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\ModelDanych.dll
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\WarstwaDostępuDoDanych.dll
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\EntityFramework.dll
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Kontrolki_by_wwsi.pdb
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Kontrolki_by_wwsi.dll.config
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\ModelDanych.pdb
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\ModelDanych.dll.config
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\WarstwaDostępuDoDanych.pdb
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\WarstwaDostępuDoDanych.dll.config
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\EntityFramework.xml
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.AssemblyReference.cache
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Bitwa.resources
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Budowa_budynku.resources
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.EkranOdczytu.resources
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Ekran_rekrutacji.resources
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Ekran_startowy.resources
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Kontrolki.BohaterControl.resources
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Kontrolki.JednostkaKontrolka.resources
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Mapa_widok.resources
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Miasto_widok.resources
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Properties.Resources.resources
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.wybor_map.resources
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.GenerateResource.cache
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.CoreCompileInputs.cache
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.CopyComplete
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.exe
+C:\Users\Dusiciel\source\repos\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.pdb
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Miasto w heroes.exe.config
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Miasto w heroes.exe
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Miasto w heroes.pdb
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Kontrolki_by_wwsi.dll
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\ModelDanych.dll
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\WarstwaDostępuDoDanych.dll
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\EntityFramework.dll
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Kontrolki_by_wwsi.pdb
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\Kontrolki_by_wwsi.dll.config
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\ModelDanych.pdb
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\ModelDanych.dll.config
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\WarstwaDostępuDoDanych.pdb
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\WarstwaDostępuDoDanych.dll.config
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\EntityFramework.xml
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.AssemblyReference.cache
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Bitwa.resources
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Budowa_budynku.resources
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.EkranOdczytu.resources
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Ekran_rekrutacji.resources
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Ekran_startowy.resources
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Kontrolki.BohaterControl.resources
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Kontrolki.JednostkaKontrolka.resources
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Mapa_widok.resources
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Miasto_widok.resources
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.Properties.Resources.resources
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto_w_heroes.wybor_map.resources
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.GenerateResource.cache
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.CoreCompileInputs.cache
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.CopyComplete
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.exe
+C:\Users\Dusiciel\source\repos\Program\Program\Miasto w heroes zapasowe\Miasto w heroes\obj\Debug\Miasto w heroes.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\Miasto w heroes.exe.config
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\Miasto w heroes.exe
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\Miasto w heroes.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\Kontrolki_by_wwsi.dll
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\ModelDanych.dll
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\WarstwaDostępuDoDanych.dll
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\EntityFramework.dll
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\Kontrolki_by_wwsi.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\Kontrolki_by_wwsi.dll.config
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\ModelDanych.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\ModelDanych.dll.config
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\WarstwaDostępuDoDanych.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\WarstwaDostępuDoDanych.dll.config
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\EntityFramework.xml
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.AssemblyReference.cache
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.Bitwa.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.Budowa_budynku.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.EkranOdczytu.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.Ekran_rekrutacji.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.Ekran_startowy.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.Kontrolki.JednostkaKontrolka.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.Mapa_widok.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.Miasto_widok.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.Properties.Resources.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.wybor_map.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.GenerateResource.cache
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.CoreCompileInputs.cache
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.CopyComplete
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto w heroes.exe
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto w heroes.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\Animacje.exe
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\Animacje.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\Animacje.exe.config
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.Kontrolki.BohaterArmia.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.Kontrolki.BohaterWidok.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.Kontrolki.JednostkaWidokKontrolka.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.GUI.JednostkaWidok.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\ZnajdowanieDrogi.exe
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\ZnajdowanieDrogi.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\ZnajdowanieDrogi.exe.config
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.GUI.Opcje.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\ConfigRozwiazanie.exe
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\ConfigRozwiazanie.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\ConfigRozwiazanie.exe.config
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\Miasto w heroes.exe.config
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\Miasto w heroes.exe
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\Miasto w heroes.pdb
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\Animacje.exe
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\ConfigRozwiazanie.exe
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\Kontrolki_by_wwsi.dll
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\ModelDanych.dll
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\WarstwaDostępuDoDanych.dll
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\ZnajdowanieDrogi.exe
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\EntityFramework.dll
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\EntityFramework.SqlServer.dll
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\Animacje.pdb
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\Animacje.exe.config
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\ConfigRozwiazanie.pdb
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\ConfigRozwiazanie.exe.config
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\Kontrolki_by_wwsi.pdb
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\Kontrolki_by_wwsi.dll.config
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\ModelDanych.pdb
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\ModelDanych.dll.config
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\WarstwaDostępuDoDanych.pdb
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\WarstwaDostępuDoDanych.dll.config
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\ZnajdowanieDrogi.pdb
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\ZnajdowanieDrogi.exe.config
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\EntityFramework.xml
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\bin\Debug\EntityFramework.SqlServer.xml
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.AssemblyReference.cache
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.Bitwa.resources
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.Budowa_budynku.resources
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.EkranOdczytu.resources
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.Ekran_rekrutacji.resources
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.Ekran_startowy.resources
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.GUI.JednostkaWidok.resources
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.GUI.Opcje.resources
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.Kontrolki.BohaterArmia.resources
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.Kontrolki.BohaterWidok.resources
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.Kontrolki.JednostkaKontrolka.resources
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.Mapa_widok.resources
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.Miasto_widok.resources
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.Kontrolki.JednostkaWidokKontrolka.resources
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.Properties.Resources.resources
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto_w_heroes.wybor_map.resources
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.GenerateResource.cache
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.CoreCompileInputs.cache
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto w heroes.csproj.CopyComplete
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto w heroes.exe
+F:\Korepetycje\Osoby\PiotrSłupno\Miasto w heroes zapasowe z packages\Miasto w heroes\obj\Debug\Miasto w heroes.pdb

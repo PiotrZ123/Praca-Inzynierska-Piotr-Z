@@ -1,0 +1,35 @@
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Kontrolki_by_wwsi\bin\Debug\Kontrolki_by_wwsi.dll
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Kontrolki_by_wwsi\bin\Debug\Kontrolki_by_wwsi.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Kontrolki_by_wwsi\obj\Debug\Kontrolki_by_wwsi.csproj.GenerateResource.cache
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Kontrolki_by_wwsi\obj\Debug\Kontrolki_by_wwsi.csproj.CoreCompileInputs.cache
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Kontrolki_by_wwsi\obj\Debug\Kontrolki_by_wwsi.dll
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Kontrolki_by_wwsi\obj\Debug\Kontrolki_by_wwsi.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Kontrolki_by_wwsi\obj\Debug\Kontrolki_by_wwsi.Pasek_postępu.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Kontrolki_by_wwsi\bin\Debug\Kontrolki_by_wwsi.dll
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Kontrolki_by_wwsi\bin\Debug\Kontrolki_by_wwsi.pdb
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Kontrolki_by_wwsi\obj\Debug\Kontrolki_by_wwsi.ArmiaKontrolka.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Kontrolki_by_wwsi\obj\Debug\Kontrolki_by_wwsi.Pasek_postępu.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Kontrolki_by_wwsi\obj\Debug\Kontrolki_by_wwsi.csproj.GenerateResource.cache
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Kontrolki_by_wwsi\obj\Debug\Kontrolki_by_wwsi.csproj.CoreCompileInputs.cache
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Kontrolki_by_wwsi\obj\Debug\Kontrolki_by_wwsi.dll
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\Miasto w heroes zapasowe\Kontrolki_by_wwsi\obj\Debug\Kontrolki_by_wwsi.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe\Kontrolki_by_wwsi\obj\Debug\Kontrolki_by_wwsi.ArmiaKontrolka.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Kontrolki_by_wwsi\bin\Debug\Kontrolki_by_wwsi.dll.config
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Kontrolki_by_wwsi\bin\Debug\Kontrolki_by_wwsi.dll
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Kontrolki_by_wwsi\bin\Debug\Kontrolki_by_wwsi.pdb
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Kontrolki_by_wwsi\obj\Debug\Kontrolki_by_wwsi.ArmiaKontrolka.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Kontrolki_by_wwsi\obj\Debug\Kontrolki_by_wwsi.Pasek_postępu.resources
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Kontrolki_by_wwsi\obj\Debug\Kontrolki_by_wwsi.csproj.GenerateResource.cache
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Kontrolki_by_wwsi\obj\Debug\Kontrolki_by_wwsi.csproj.CoreCompileInputs.cache
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Kontrolki_by_wwsi\obj\Debug\Kontrolki_by_wwsi.dll
+F:\Korepetycje\Osoby\PiotrSłupno\semestr5\v2\Miasto w heroes zapasowe\Kontrolki_by_wwsi\obj\Debug\Kontrolki_by_wwsi.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Kontrolki_by_wwsi\bin\Debug\Kontrolki_by_wwsi.dll.config
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Kontrolki_by_wwsi\bin\Debug\Kontrolki_by_wwsi.dll
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Kontrolki_by_wwsi\bin\Debug\Kontrolki_by_wwsi.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Kontrolki_by_wwsi\obj\Debug\Kontrolki_by_wwsi.ArmiaKontrolka.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Kontrolki_by_wwsi\obj\Debug\Kontrolki_by_wwsi.Pasek_postępu.resources
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Kontrolki_by_wwsi\obj\Debug\Kontrolki_by_wwsi.csproj.GenerateResource.cache
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Kontrolki_by_wwsi\obj\Debug\Kontrolki_by_wwsi.csproj.CoreCompileInputs.cache
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Kontrolki_by_wwsi\obj\Debug\Kontrolki_by_wwsi.dll
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Kontrolki_by_wwsi\obj\Debug\Kontrolki_by_wwsi.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\Kontrolki_by_wwsi\obj\Debug\Kontrolki_by_wwsi.csproj.AssemblyReference.cache

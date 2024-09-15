@@ -1,0 +1,7 @@
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\ZnajdowanieDrogi\obj\Debug\ZnajdowanieDrogi.csproj.AssemblyReference.cache
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\ZnajdowanieDrogi\obj\Debug\ZnajdowanieDrogi.csproj.CoreCompileInputs.cache
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\ZnajdowanieDrogi\bin\Debug\ZnajdowanieDrogi.exe.config
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\ZnajdowanieDrogi\bin\Debug\ZnajdowanieDrogi.exe
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\ZnajdowanieDrogi\bin\Debug\ZnajdowanieDrogi.pdb
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\ZnajdowanieDrogi\obj\Debug\ZnajdowanieDrogi.exe
+C:\Users\Dusiciel\source\repos\Miasto w heroes zapasowe z packages\ZnajdowanieDrogi\obj\Debug\ZnajdowanieDrogi.pdb

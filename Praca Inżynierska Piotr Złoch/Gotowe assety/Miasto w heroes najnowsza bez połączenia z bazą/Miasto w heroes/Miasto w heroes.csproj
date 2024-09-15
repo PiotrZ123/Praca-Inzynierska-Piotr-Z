@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3E2A4A88-E729-43AB-A071-E1037BB10740}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Miasto_w_heroes</RootNamespace>
+    <AssemblyName>Miasto w heroes</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GUI\Bitwa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Bitwa.Designer.cs">
+      <DependentUpon>Bitwa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\EkranOdczytu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\EkranOdczytu.Designer.cs">
+      <DependentUpon>EkranOdczytu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\JednostkaWidok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\JednostkaWidok.Designer.cs">
+      <DependentUpon>JednostkaWidok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Opcje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Opcje.Designer.cs">
+      <DependentUpon>Opcje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrolki\BohaterWidok.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrolki\BohaterWidok.Designer.cs">
+      <DependentUpon>BohaterWidok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrolki\JednostkaWidokKontrolka.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrolki\JednostkaWidokKontrolka.Designer.cs">
+      <DependentUpon>JednostkaWidokKontrolka.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Budynek.cs" />
+    <Compile Include="Model\SurowceLezaceNaMapie.cs" />
+    <Compile Include="Services\BazaBohaterow.cs" />
+    <Compile Include="Services\Gra.cs" />
+    <Compile Include="Services\Kolor.cs" />
+    <Compile Include="Kontrolki\BohaterArmia.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrolki\BohaterArmia.Designer.cs">
+      <DependentUpon>BohaterArmia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrolki\JednostkaKontrolka.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrolki\JednostkaKontrolka.Designer.cs">
+      <DependentUpon>JednostkaKontrolka.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Services\ListaGracza.cs" />
+    <Compile Include="Services\Converter.cs" />
+    <Compile Include="Services\Logic.cs" />
+    <Compile Include="Services\BazaJednostek.cs" />
+    <Compile Include="Model\Bohater.cs" />
+    <Compile Include="GUI\Budowa_budynku.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Budowa_budynku.Designer.cs">
+      <DependentUpon>Budowa_budynku.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Ekran_rekrutacji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Ekran_rekrutacji.Designer.cs">
+      <DependentUpon>Ekran_rekrutacji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Ekran_startowy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Ekran_startowy.Designer.cs">
+      <DependentUpon>Ekran_startowy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Gracz.cs" />
+    <Compile Include="Model\Jednostka.cs" />
+    <Compile Include="GUI\Mapa_widok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Mapa_widok.Designer.cs">
+      <DependentUpon>Mapa_widok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Mapa.cs" />
+    <Compile Include="Model\Miasto.cs" />
+    <Compile Include="GUI\Miasto_widok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Miasto_widok.Designer.cs">
+      <DependentUpon>Miasto_widok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\ObiektNaMapie.cs" />
+    <Compile Include="Model\ObiektWlasciciela.cs" />
+    <Compile Include="Model\PrzeszkodaMiasto.cs" />
+    <Compile Include="Services\MetaTablica.cs" />
+    <Compile Include="Services\Obrazy.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\MetaLista.cs" />
+    <Compile Include="GUI\wybor_map.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\wybor_map.Designer.cs">
+      <DependentUpon>wybor_map.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="GUI\Bitwa.resx">
+      <DependentUpon>Bitwa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Budowa_budynku.resx">
+      <DependentUpon>Budowa_budynku.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\EkranOdczytu.resx">
+      <DependentUpon>EkranOdczytu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Ekran_rekrutacji.resx">
+      <DependentUpon>Ekran_rekrutacji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Ekran_startowy.resx">
+      <DependentUpon>Ekran_startowy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\JednostkaWidok.resx">
+      <DependentUpon>JednostkaWidok.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Opcje.resx">
+      <DependentUpon>Opcje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrolki\BohaterArmia.resx">
+      <DependentUpon>BohaterArmia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrolki\BohaterWidok.resx">
+      <DependentUpon>BohaterWidok.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrolki\JednostkaKontrolka.resx">
+      <DependentUpon>JednostkaKontrolka.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Mapa_widok.resx">
+      <DependentUpon>Mapa_widok.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Miasto_widok.resx">
+      <DependentUpon>Miasto_widok.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrolki\JednostkaWidokKontrolka.resx">
+      <DependentUpon>JednostkaWidokKontrolka.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\wybor_map.resx">
+      <DependentUpon>wybor_map.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\b0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\b1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\b2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Strzałka.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\b3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\b4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\j1_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\j1_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\j1_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\j1_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\tlo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Bohater_bez_koloru.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Bohater_czerwony.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\zamek_bez_koloru.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\zamek_czerwony.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Bohater_Jarek.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Bohater_Tadek.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\j2_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\j2_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\j2_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\j2_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\j3_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\j3_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\j3_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\j3_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\j4_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\j4_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\j4_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\j4_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\j5_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\j5_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\j5_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\j5_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Bohater_fioletowy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Bohater_niebieski.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Bohater_zielony.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\zamek_fioletowy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\zamek_niebieski.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\zamek_zielony.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Bohater_Generyczny.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Animacje\Animacje.csproj">
+      <Project>{87079355-2702-4383-851f-5daf5ab8a782}</Project>
+      <Name>Animacje</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ConfigRozwiazanie\ConfigRozwiazanie.csproj">
+      <Project>{fda1f2e9-98f2-4a01-b296-99034d510d64}</Project>
+      <Name>ConfigRozwiazanie</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Kontrolki_by_wwsi\Kontrolki_by_wwsi.csproj">
+      <Project>{a2d0f4fa-8fbd-4069-b097-e4a760cb45f4}</Project>
+      <Name>Kontrolki_by_wwsi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ModelDanych\ModelDanych.csproj">
+      <Project>{ee30a813-2f30-4e0c-8809-a260ee4ffcaa}</Project>
+      <Name>ModelDanych</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WarstwaDostępuDoDanych\WarstwaDostępuDoDanych.csproj">
+      <Project>{9573f0a7-09f2-40fc-b9f2-1bf052f8916c}</Project>
+      <Name>WarstwaDostępuDoDanych</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ZnajdowanieDrogi\ZnajdowanieDrogi.csproj">
+      <Project>{c7f7af93-2b5e-47b6-bd8f-c1fcef8af6c9}</Project>
+      <Name>ZnajdowanieDrogi</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
